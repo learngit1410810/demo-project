@@ -1,3 +1,3 @@
 # demo-project
 Its a Static Web-Page
-Thanks for learning
+Thanks for learning.
